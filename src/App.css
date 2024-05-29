@@ -109,3 +109,10 @@ button {
   border-radius: 10px;
   margin-bottom: 10px;
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
